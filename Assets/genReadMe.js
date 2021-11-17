@@ -23,8 +23,8 @@ const genReadMe = data => {
     ## Tests
     ${data.test}
     ## Questions
-    If you have any questions about this projects, please contact me directly at ${data.email}. You can view more of my projects at https://github.com/${data.github}.
+    If you have any questions about this project, please contact me directly at ${data.email}. You can view more of my projects at https://github.com/${data.github}.
   `;
   }
 
-module.exports = genReadMe;
+module.exports = generateReadMe;

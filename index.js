@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generateReadMe = require('./Assets/genReadMe');
+const generateReadMe = require('./Assets/genReadMe.js');
 
 const questionsEl = () => {
     return inquirer.prompt([
@@ -8,6 +8,11 @@ const questionsEl = () => {
             type: 'input',
             name: 'name',
             message: 'What is your name?',
+        },
+        {
+            type: 'input',
+            name: 'title',
+            message: 'What is the name of your project?',
         },
         {
             type: 'input',

@@ -27,4 +27,4 @@ const genReadMe = data => {
   `;
   }
 
-module.exports = generateReadMe;
+module.exports = genReadMe;

@@ -1,4 +1,4 @@
-# undefined
+# Good-ReadMe-Generator
     ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
     
     ## Description 
@@ -22,5 +22,5 @@
     ## Tests
     undefined
     ## Questions
-    If you have any questions about this projects, please contact me directly at RobAAugusta@gmail.com. You can view more of my projects at https://github.com/Offspringjunky90.
+    If you have any questions about this project, please contact me directly at RobAAugusta@gmail.com. You can view more of my projects at https://github.com/Offspringjunky90.
   

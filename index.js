@@ -6,11 +6,6 @@ const questionsEl = () => {
     return inquirer.prompt([
         {
             type: 'input',
-            name: 'name',
-            message: 'What is your name?',
-        },
-        {
-            type: 'input',
             name: 'title',
             message: 'What is the name of your project?',
         },
@@ -31,7 +26,7 @@ const questionsEl = () => {
         },
         {
             type: 'input',
-            name: 'Usage',
+            name: 'usage',
             message: 'What is this project used for?',
         },
         {

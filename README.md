@@ -1,8 +1,8 @@
-# Good-ReadMe-Generator
+# Good-README-Generator
     ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
     
     ## Description 
-    This application was created to generate a professional README through a series of questions any user answers in their command line using Node.js by Robert Augusta
+    This application was created to generate a professional README through a series of questions any user answers in their command line using Node.js
     ## Table of Contents
     * [Installation](#installation)
     * [Usage](#usage)
@@ -12,15 +12,15 @@
     * [Questions](#questions)
     
     ## Installation 
-    undefined
+    The user should clone the repository from GitHub and download Node.
     ## Usage 
-    undefined
+    Use inquirer from command line to answer questions about your project.
     ## License 
     This project is license under MIT
     ## Contributing 
-    undefined
+    N/A
     ## Tests
-    undefined
+    npm test
     ## Questions
     If you have any questions about this project, please contact me directly at RobAAugusta@gmail.com. You can view more of my projects at https://github.com/Offspringjunky90.
   

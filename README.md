@@ -6,12 +6,12 @@
     This application was created to generate a professional README through a series of questions any user answers in their command line using Node.js
     
    ## Table of Contents
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [License](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+    [Installation](#installation)
+    [Usage](#usage)
+    [License](#license)
+    [Contributing](#contributing)
+    [Tests](#tests)
+    [Questions](#questions)
     
    ## Installation 
    

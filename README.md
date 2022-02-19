@@ -6,14 +6,20 @@
     This application was created to generate a professional README through a series of questions any user answers in their command line using Node.js
     
    ## Table of Contents
-    -[Installation](#installation)
-    -[Usage](#usage)
-    -[License](#license)
-    -[Contributing](#contributing)
-    -[Tests](#tests)
-    -[Questions](#questions)
     
-   ## Installation <a id="installation"></a>
+   -[Installation](#installation)
+    
+   -[Usage](#usage)
+    
+   -[License](#license)
+    
+   -[Contributing](#contributing)
+    
+   -[Tests](#tests)
+    
+   -[Questions](#questions)
+    
+## Installation <a id="installation"></a>
    
 The user should clone the repository from GitHub and download Node.
    
